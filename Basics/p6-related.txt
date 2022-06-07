@@ -1,0 +1,7 @@
+20, Tanmay, Sakar, B.Tech, 0
+21, Debashis, Roy, BCA, 1
+19, Bishnu, Sarkar, BCA, 2
+22, Amit, Nandi, B.Sc, 4
+21, Priyanshu, Bhowmick, B.Tech, 3
+20, Dibyendu, Das, B.Tech, 6
+21, Rahul, Sarkar, BBA, 5
